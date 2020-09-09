@@ -1,0 +1,20 @@
+      <td>Arsenal</td>
+          <td>Aston Villa</td>
+          <td>Brighton</td>
+          <td>Burnley</td>
+          <td>Chelsea</td>
+          <td>Crystal Palace</td>
+          <td>Everton</td>
+          <td>Fulham</td>
+          <td>Leeds United</td>
+          <td>Leaicester City</td>
+          <td>Liverpool</td>
+          <td>Man City</td>
+          <td>Man United</td>
+          <td>Newcastle United</td>
+          <td>Sheffield United</td>
+          <td>Southampton</td>
+          <td>Tottenham</td>
+          <td>West Brom</td>
+          <td>West Ham United</td>
+          <td>Wolves</td>

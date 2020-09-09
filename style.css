@@ -1,0 +1,21 @@
+/* body */
+
+
+
+/* Jumbotron */
+
+#jumboHeaderImg {
+  background-image: url('assets/pitch.jpg');
+  background-size: 100%;
+  background-position: 10%;
+
+
+/* Navbar */
+
+
+/* Season  */
+
+.year {
+  display: block;
+  text-align: center;
+}
